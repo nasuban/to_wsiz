@@ -1,4 +1,4 @@
-# to_wsiz
+# Testowanie Oprogramowania
 
 Projekt stworzony na potrzeby zajęć na uczelni.
 Projekt dotyczy testów oprogramowania, wymagania projektu:
